@@ -20,6 +20,17 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 
 ## Usage
 
+Local development:
+1. Install Ruby installer and a dedicated version controller: `brew install chruby ruby-install`
+2. Install the latest Ruby version: `ruby-install ruby`
+3. Change to newest Ruby (do not use native Ruby on Mac): `chruby 3.0.1`
+4. Navigate to repo
+5. Checkout to v3 branch
+6. Install dependencies: `gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag jekyll-paginate webrick`
+7. Run on localhost:4000: `jekyll serve`
+
+Deployment:
+
 Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
 
 
