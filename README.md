@@ -30,6 +30,7 @@ Local development:
 7. Run on localhost:4000: `jekyll serve`
 
 Deployment:
+This repo is tracking build changes from the v3 branch. Simply push to v3 branch
 
 Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
 
