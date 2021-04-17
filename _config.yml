@@ -2,14 +2,14 @@
 title:            Aaron Abraham
 tagline:          ''
 description:      'University of Waterloo Software Engineering student'
-url:              https://hyde.getpoole.com
+url:              https://aaronabraham311.github.io
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Aaron Abraham'
+  url:            https://aaronabraham.ca
 
 # Gems
 plugins:
