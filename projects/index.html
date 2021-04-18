@@ -26,7 +26,7 @@ title: Projects
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
+      <a class="pagination-item newer" href="{{ '/projects/index.html' | absolute_url }}">Newer</a>
     {% else %}
       <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
     {% endif %}
