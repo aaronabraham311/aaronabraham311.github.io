@@ -44,24 +44,17 @@ The last stop of the tour was Jiufen, which is famous for allegedly being the in
 ![[IMG_1145 Large.jpeg|Jiufen temple]]
 
 ![[IMG_1154 Large.jpeg|Jiufen lamps]]
+# May 26
 
-May 26
+The weather in Taipei was extremely balmy this day so we decided to spend most of our time indoors. We made our way to the National Palace Museum to start off the day, which was surprisingly far away from the center of Taipei. The museum itself is a massive structure with 3 floors of various artifacts from various Chinese dynasties. My favourite exhibition was the jade exhibition, which showcased many jade art from the Chinese mainland as well as the artifacts from the Qing dynasty that were deposited on Taiwan. However, I wouldn't recommend visiting this museum for tourists unless they have a good grasp of Taiwanese history. The museum dives deep into the art of Chinese dynasties and does an excellent job with art history, but it is difficult to place it into context of the wider Taiwanese and Chinese societal currents of the age. I had to rely hard on my AP World History knowledge of Chinese dynasties to understand why certain artifacts were significant.
 
-[](#may-26)
+After the museum tour, we explored the Ximen area a bit more and grabbed a bite of beef noodles, which wasn't nearly as good as the the noodles I had in the hole-in-the-wall shop I had earlier in the trip. After walking around in the humid 30C+ weather, our entire group decided to rest in the hotel for a bit and go out for a bit for dinner. 
 
-- National Palace Museum
-    
-
-- Explored a bit of Ximen, got more beef noodles
-    
-
-- Got Taiwanese fried chicken, kinda meh
-    
-
-## 
-
-May 27
-
-[](#may-27)
-
-- Flew out to Chiang Mai
+For dinner, we tried some Taiwanese fried chicken, since that is apparently a top dish to get in Taiwan. I have to say, it was pretty mid. I split out from the rest of the group to catch up with another friend who was in Taipei, explored Ximen a bit more and then crashed.
+# May 27
+Nothing really exceptional for this day asides from getting to the airport and flying out to Chiang Mai to start the Thai adventures.
+# Tips
+- It is extremely helpful to have a friend who can speak Mandarin with you (even better if they know Fujianese). Most Taiwanese people can communicate with English but are more comfortable with their native Mandarin. Almost all signage is in traditional Chinese characters (not even Simplified Chinese) so it may be difficult to understand. Fortunately, Google Translate can come in handy!
+- Transit: when you land in Taiwan, you can get a card for transit tap-ons and tap-offs at the airport. However, public transit here is not that much better than just hailing cabs/Ubers since traffic is quite bad. The metro system is not nearly as extensive as Japan so you will mostly have to rely on buses or Ubers
+- Late May is not the best time to visit the country as Taiwan is under the "plum monsoon" during this time. This is a persistently rainy and cloudy season that starts in May and extends to June. This will hamper travel plans
+- 7-11s are all the rage in Taipei and you can get a decent meal at any 7-11. I went to 7-11s almost all the time for breakfast and quick lunches

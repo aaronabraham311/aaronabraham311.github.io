@@ -1,5 +1,5 @@
 ---
-title: "# Team Canada ISEF"
+title: Team Canada ISEF
 date: 2020-04-01
 tags:
   - technical
