@@ -29,14 +29,20 @@ After the waterfall, we drove into the clouds to visit Doi Inthanon, the highest
 
 We then visited the Grand Pagodas, which are two massive pagodas erected nearby. The pagodas were built by the King to honour one of his wives. We tried to explore the pagodas but due to the height and the incessant monsoon clouds, it became extremely wet and windy, so it wasn't great to explore.
 
-We then visited a nearby Lanna village to get lunch and learned about the traditional way of life for the rural population. Many of the farmers 
-# May 30
-# May 31
-# June 1
-# June 2
-# June 3
+We then visited a nearby Lanna village to get lunch and learned about the traditional way of life for the rural population. Many of the farmers... 
+
+**A note to readers**: I became lazy and didn't finish this post soon after the trip. I don't really remember much of the day-to-day shenanigans in Thailand now that I am coming back to this. Thus, I am going to briefly summarize the rest of the trip and try to give out some tips to round out this post:
+- Bangkok: we didn't spend too much time in Bangkok unfortunately. We did check out the Grand Palace, but found it extremely crowded and quite uncomfortable due to humidity and heat. Definitely not my favorite place during my grad trip
+- Krabi: Krabi is the lesser-known southern Thai city and much more peaceful than Phuket. In Krabi, we took a tour to Phi Phi Islands where we snorkelled in the Indian Ocean and visited some spectacular beaches
+- Phuket: We didn't spend too much time in Phuket; mostly eating food and checking out nearby attractions. By this time in the trip, I was fully ready to go home.
+
 # Tips
-- Vaccines
-- Do not get tuk-tuks
-- 
+- Do not trust street food in Thailand. I fortunately did not get sick, but that was because:
+	- I religiously avoided street food or any food that was washed (eg. fruits)
+	- I was taking probiotics throughout this trip to avoid any nasty stomach scenarios
+- 7-11 is quite convenient in Thailand. It is not nearly as nice as it is in Japan, but you can trust the quality of the food in there.
+- Beware of scams. We booked things well in advance and avoided last-minute bookings with local agencies
+- Before you go to Thailand, I would recommend checking with your doctor if there are any vaccinations that you may need
+- Try out different food in different regions of Thailand; there is a lot of regional diversity. In the west, we mainly get central Thai food, but the other regions have some showstoppers as well
+- I heard some great things about Koh Lanta. Do your due diligence when choosing which islands/areas to visit in southern Thailand, as they all have different vibes
 
