@@ -8,18 +8,18 @@ tags:
 # **Introduction**
 
 * Usually we have no clue what causes ugly action/own bad behaviours
-* Knowing laws will lead us to anctipate nasty actions, gain control over us
-* Thoughts ad modds not controlled by the concious by tby human nature
+* Knowing laws will lead us to anticipate nasty actions, gain control over us
+* Thoughts and moods are uncontrolled unconciously
 * The destructive potential of human nature greater than ever
 * Effect of laws:
-  * Makes you calmer and strategic —> freeing from drama
-    * Understand that behaviour from deep emotions —> more tolerant
-  * Makes you the master intrepreter —> judge characters
+  * Makes you calmer and strategic, thus freeing from drama
+    * Understand that behaviour from deep emotions, making you more tolerant to others
+  * Makes you the master intrepreter; able to judge characters
     * Analyze people past the 1st impression
-  * Outthink the tocix to prevent emotional long-term damage
-  * Teachers you how to motivate and influence people
+  * Outthink the toxic to prevent emotional long-term damage
+  * Teaches you how to motivate and influence people
   * Gives power to alter own negative patterns
-  * Creates a more emphathethic person
+  * Creates a more emphathetic person
   * Makes you actualize into potential
 
 # **Master Your Emotional Self**
