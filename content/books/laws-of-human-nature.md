@@ -24,15 +24,19 @@ tags:
 
 # **Master Your Emotional Self**
 
-_The Law of Irrationality: Veering towards ideas that feed your ego will lead to your downfall. Rationality can overcome and prevent this from happenining_
+_The Law of Irrationality: Your emotions dominate you, veering you towards ideas that soothe your ego, make you look for confirmatory evidence and change what you see. Rationality is the key to avoid this, forcing you to think before you react and to open your mind to reality rather than clouding yourself with emotions_
 
-* Ex: Fall of Athens. Wisdom of Perciles —> deaths —> Athens becomes emotional —> leads to disastorous defeat at Syracuse
-  * Pericles understood that Athenians are not rational as they like to believe
-  * Thought that conciousness has to worship something, so he made them worship the mind and rationality
-  * Never made decisions in emotion, but analyzed himself
-  * Opened mind to many options and imagined all consequences
-  * No one is born rational. Have to train yourself
-  * Put scruitiny on emotions you feel —> goes away —> clear decision making
+- Example: Fall of Athens
+	- Most leaders that Athens had had a flair for rhetoric and were war-centric
+	- Pericles was different than the others, campaigning for restraint and logic in politics
+	- Sparta wanted to sue for new terms of peace which Athens did not want to accept. Pericles convinced citizens to let Sparta take the offensive and use Athens' maritime powers to feed itself in siege, raid Sparta and eventually draw out Sparta's resources
+	- This didn't work according to plan and with his death, Athens went on a poorly misguided offensive
+	- They attempted to take Syracuse (ally of Sparta) but underestimated them, leading to the defeat of the entire Athenian navy
+- Interpretation:
+	- Pericles understood that Athenian leadership was not rational, but rather quite emotional. This led to them getting involved in needless wars and unable to build a stable democracy
+	- When Pericles was a leader, he never made a decision under emotional duress and always thought through all options and analyze his own emotions to understand what is driving them
+	- Lesson for us: we are all held in the sway of emotions and we need to recognize that in order to be more thoughtful and rational before making decisions
+	- Think about why you are having those emotions and they will lose their sway on you. This leads to the perfect pasture for decision making
 * When things go wrong, we tend to blame outside forces
   * When analyzing outside forces, we get more emotional because the forces are hard to understand, as we are only guessing
 * We go wrong mostly because of irrationality, which affects everyone
@@ -50,7 +54,7 @@ _The Law of Irrationality: Veering towards ideas that feed your ego will lead to
     * **Appearance bias**: fall for appearance and then associate good appearance with good qualities
     * **Group bias**: think you are a non-conformist, but you are
     * **Blame bias:** blame others/circumstances for failures, not yourself
-    * **Blame bias:** blame others/circumstances for failures, not yourself
+    * **Superiority bias:** believe that you are faultless while others are
   * Beware the Inflamming Factors
     * Caused by external stimulus —> focus on intense emotion —> reactive
     * **Childhood trigers**: usually childish and out of character

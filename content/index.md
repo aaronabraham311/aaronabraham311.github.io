@@ -14,6 +14,7 @@ I've done a lot of stuff and have made a decent effort to write about it. Check 
 - [[university|My university experiences and advice]]
 - [[product-analysis|My ramblings on product and business]]
 - [[post-grad-living|My life after university]]
+- [[technical-writing|Interesting technical case studies]]
 - [[miscellaneous|My random musings]]
 
 If you have any thoughts, questions or you just want to say hi, give me a shout [here](mailto:aaronabraham311@gmail.com). You can also find me on the Internet on [Github](https://github.com/aaronabraham311), [LinkedIn](https://www.linkedin.com/in/aaronabraham311/)or [Twitter](https://x.com/aaronabraham311).
