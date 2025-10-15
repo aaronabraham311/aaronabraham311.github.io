@@ -37,8 +37,6 @@ This was by far my most impactful 4 month internship and it forced me to grow in
 
 For all the intensity of the engineering culture at Ramp, I was pleasantly surprised by the kindness and humor of my teammates and the rest of the folks at Ramp. I had such a good time meeting new people at happy hours, going on impromptu dinners with fellow interns and sharing laughs with my team as we built out new capabilities onto our growth system. My summer internship at Ramp was genuinely one of the best internship experiences to date.
 
-![Intern game night](https://builders.ramp.com/images/aaronInternship1.05e399ac.jpg)![Intern painting event](https://builders.ramp.com/images/aaronInternship2.23e96d92.jpg)![Intern birthday](https://builders.ramp.com/images/aaronInternship3.71bee985.jpg)
-
 ---
 
 #### Why Did I Decide to Come Back?
@@ -58,8 +56,6 @@ I decided to return to a different team to try out a new challenge as a new grad
 In typical Ramp fashion, I was thrown into projects within my first week of joining the team. One of the projects I joined was matching card transactions to purchase orders, opening up a new way to track spend against procurement requests. Since August, I have been involved in numerous projects and entrusted to lead a few, mirroring the level of ownership I had in my last internship.
 
 Procurement has been an absolute blast to work on and I am really looking forward to building out more features for this rocketship!
-
-![Procurement team dinner](https://builders.ramp.com/images/procurementTeam.d2d1797d.png)
 
 ---
 
