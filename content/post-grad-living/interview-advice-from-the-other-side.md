@@ -1,6 +1,6 @@
 ---
 title: "Software Engineering Interview Advice: From The Other Side"
-draft: true
+draft: false
 date: 2025-10-15
 tags:
   - career
